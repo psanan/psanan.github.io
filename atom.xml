@@ -3,7 +3,7 @@
 <title>patricksanan.org</title>
 <link href="https://patricksanan.org/" ref="alternate"/>
 <link href="https://patricksanan.org/feeds/all.atom.xml" rel="self"/>
-<updated>2024-05-11T15:26:42+02:00</updated>
+<updated>2024-06-09T19:18:14+02:00</updated>
 <author><name>Patrick Sanan</name> </author>
 <id>https://patricksanan.org</id>
 <rights>Copyright 2023-2024 Patrick Sanan</rights>
@@ -53,6 +53,15 @@
 <content>https://patricksanan.org/it-doesnt-work.html</content>
 </entry>
 <entry>
+<title>mozart-ultra.html</title>
+<link href="https://patricksanan.org/mozart-ultra.html"/>
+<id>https://patricksanan.org/mozart-ultra.html</id>
+<published>2024-06-01</published>
+<updated>2024-06-01</updated>
+<summary>https://patricksanan.org/mozart-ultra.html</summary>
+<content>https://patricksanan.org/mozart-ultra.html</content>
+</entry>
+<entry>
 <title>obwaldner-hoehenweg-loop.html</title>
 <link href="https://patricksanan.org/obwaldner-hoehenweg-loop.html"/>
 <id>https://patricksanan.org/obwaldner-hoehenweg-loop.html</id>
@@ -75,7 +84,7 @@
 <link href="https://patricksanan.org/swiss-cantonal-highpoints.html"/>
 <id>https://patricksanan.org/swiss-cantonal-highpoints.html</id>
 <published>2023-11-01</published>
-<updated>2024-05-01</updated>
+<updated>2024-06-09</updated>
 <summary>https://patricksanan.org/swiss-cantonal-highpoints.html</summary>
 <content>https://patricksanan.org/swiss-cantonal-highpoints.html</content>
 </entry>
