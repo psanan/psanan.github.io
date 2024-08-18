@@ -3,7 +3,7 @@
 <title>patricksanan.org</title>
 <link href="https://patricksanan.org/" ref="alternate"/>
 <link href="https://patricksanan.org/feeds/all.atom.xml" rel="self"/>
-<updated>2024-06-10T20:05:21+02:00</updated>
+<updated>2024-08-18T08:25:43+02:00</updated>
 <author><name>Patrick Sanan</name> </author>
 <id>https://patricksanan.org</id>
 <rights>Copyright 2023-2024 Patrick Sanan</rights>
@@ -84,7 +84,7 @@
 <link href="https://patricksanan.org/swiss-cantonal-highpoints.html"/>
 <id>https://patricksanan.org/swiss-cantonal-highpoints.html</id>
 <published>2023-11-01</published>
-<updated>2024-06-09</updated>
+<updated>2024-07-07</updated>
 <summary>https://patricksanan.org/swiss-cantonal-highpoints.html</summary>
 <content>https://patricksanan.org/swiss-cantonal-highpoints.html</content>
 </entry>
@@ -177,6 +177,15 @@
 <updated>2021-07-09</updated>
 <summary>https://patricksanan.org/vda.html</summary>
 <content>https://patricksanan.org/vda.html</content>
+</entry>
+<entry>
+<title>vrenelisgaertli.html</title>
+<link href="https://patricksanan.org/vrenelisgaertli.html"/>
+<id>https://patricksanan.org/vrenelisgaertli.html</id>
+<published>2024-08-10</published>
+<updated>2024-08-10</updated>
+<summary>https://patricksanan.org/vrenelisgaertli.html</summary>
+<content>https://patricksanan.org/vrenelisgaertli.html</content>
 </entry>
 <entry>
 <title>zueri-oberland-hoehenweg.html</title>
