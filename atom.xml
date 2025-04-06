@@ -3,7 +3,7 @@
 <title>patricksanan.org</title>
 <link href="https://patricksanan.org/" ref="alternate"/>
 <link href="https://patricksanan.org/feeds/all.atom.xml" rel="self"/>
-<updated>2025-03-16T09:51:44+01:00</updated>
+<updated>2025-04-05T19:09:21-07:00</updated>
 <author><name>Patrick Sanan</name> </author>
 <id>https://patricksanan.org</id>
 <rights>Copyright 2023-2025 Patrick Sanan</rights>
@@ -51,6 +51,15 @@
 <updated>2019-07-05</updated>
 <summary>https://patricksanan.org/it-doesnt-work.html</summary>
 <content>https://patricksanan.org/it-doesnt-work.html</content>
+</entry>
+<entry>
+<title>lake-zueri-100.html</title>
+<link href="https://patricksanan.org/lake-zueri-100.html"/>
+<id>https://patricksanan.org/lake-zueri-100.html</id>
+<published>2025-03-29</published>
+<updated>2025-03-29</updated>
+<summary>https://patricksanan.org/lake-zueri-100.html</summary>
+<content>https://patricksanan.org/lake-zueri-100.html</content>
 </entry>
 <entry>
 <title>mozart-ultra.html</title>
