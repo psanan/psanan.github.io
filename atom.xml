@@ -3,7 +3,7 @@
 <title>patricksanan.org</title>
 <link href="https://patricksanan.org/" ref="alternate"/>
 <link href="https://patricksanan.org/feeds/all.atom.xml" rel="self"/>
-<updated>2025-06-21T22:02:22+02:00</updated>
+<updated>2025-07-21T22:11:40+02:00</updated>
 <author><name>Patrick Sanan</name> </author>
 <id>https://patricksanan.org</id>
 <rights>Copyright 2023-2025 Patrick Sanan</rights>
@@ -80,6 +80,15 @@
 <content>https://patricksanan.org/obwaldner-hoehenweg-loop.html</content>
 </entry>
 <entry>
+<title>ringelspitz.html</title>
+<link href="https://patricksanan.org/ringelspitz.html"/>
+<id>https://patricksanan.org/ringelspitz.html</id>
+<published>2025-07-12</published>
+<updated>2025-07-12</updated>
+<summary>https://patricksanan.org/ringelspitz.html</summary>
+<content>https://patricksanan.org/ringelspitz.html</content>
+</entry>
+<entry>
 <title>swiss-alps-100k.html</title>
 <link href="https://patricksanan.org/swiss-alps-100k.html"/>
 <id>https://patricksanan.org/swiss-alps-100k.html</id>
@@ -93,7 +102,7 @@
 <link href="https://patricksanan.org/swiss-cantonal-highpoints.html"/>
 <id>https://patricksanan.org/swiss-cantonal-highpoints.html</id>
 <published>2023-11-01</published>
-<updated>2025-06-15</updated>
+<updated>2025-07-12</updated>
 <summary>https://patricksanan.org/swiss-cantonal-highpoints.html</summary>
 <content>https://patricksanan.org/swiss-cantonal-highpoints.html</content>
 </entry>
