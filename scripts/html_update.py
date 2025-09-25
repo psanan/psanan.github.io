@@ -61,7 +61,7 @@ def _footer_lines():
         '<hr>\n',
         f'{utils.copyright_string()}\n',
         ('<span style="float:right;">Made with 🤷 by '
-         '<a href="https://github.com/psanan/website">editing HTML</a></span>\n'
+         '<a href="https://github.com/psanan/psanan.github.io">editing HTML</a></span>\n'
         ),
         '</div>\n',
         '</body>\n',
