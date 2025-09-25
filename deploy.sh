@@ -1,11 +1,16 @@
 #!/usr/bin/env sh
 
+if [ -n "$(git status -s)" ]; then
+  printf -- "Git status is not clean. Commit changes and resolve untracked files.\n"
+  return 1
+fi
+
 printf -- "Updating HTML\n"
 python scripts/html_update.py
 return_value=$?
 if [ $return_value -ne 0 ]; then
   printf -- "HTML update had an effect! Confirm and re-run\n"
-  exit $return_value
+  return $return_value
 fi
 
 printf -- "Updating feed\n"
