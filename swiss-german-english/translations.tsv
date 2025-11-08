@@ -223,8 +223,8 @@ Ich froimi seer.				Ich freut mich sehr.				I am very pleased (to meet you).
 s Büsi	d Chatz			die Katze				the cat			
 es Bitzli				ein Bisschen				a little bit			
 s Gipfeli								the (small) croissant			
-de Bueb								the boy			
-s Velo								the (road) bike			
+de Bueb				der Junge				the boy			
+s Velo				das Fahrrad				the (road) bike			
 											
 öppis				etwas				something			
 Was isch für Ziit?				Wie Uhr ist es?				What time is it?			
@@ -374,7 +374,7 @@ laufe				laufen	spazieren			to walk
 ränne				rennen				to run			
 rede				sprechen				to speak (a language)			
 schmöcke				schmecken	riechen			to taste	to smell		
-aalüte								to call (on the phone)			
+aalüte				anrufen				to call (on the phone)			
 pfuuse	schlafe			schlafen				to sleep			
 tschuute				Fussball spielen				to play soccer	to play football		
 zügle				umziehen				to move (houses)			
@@ -382,7 +382,7 @@ chrampfe								to work  hard
 ahha				tragen				to wear (clothes)			
 übercho	überchoo			erhalten	bekommen			to receive			
 Sport triibe								to play sports			
-abziä								to take off (clothes)			
+abziä				ausziehen				to take off (clothes)			
 Hör uf!				Hör auf!				Stop it!			
 											
 bädele	bedele							to swim (leisurely)			
@@ -449,7 +449,7 @@ er möcht								he would like to
 mir möchted								we would like to			
 märsi vilmal				vielen dank				thank you very much			
 sorry								excuse me			
-ade											
+ade								goodbye			
 Uf widerluege!				Auf wiedersehen!				Goodbye!			
 äbä				eben							
 gäll								right?			
@@ -461,16 +461,16 @@ s Ross				das Pferd				the horse
 öppedie								from time to time			
 d Zää				die Zähne				the teeth			
 s Rüebli	s Rüäbli			die Karotte				the carrot			
-de Mäntig								the Monday			
-de Zischtig								the Tuesday			
-de Mittwuch								the Wednesday			
-de Dunschtig								the Thursday			
-de Friitig								the Friday			
-de Samschtig								the Saturday			
-de Sunntig								the Sunday			
-am Sunntig								on Sunday			
+de Mäntig				der Montag				the Monday			
+de Zischtig				der Dienstag				the Tuesday			
+de Mittwuch				der Mittwoch				the Wednesday			
+de Dunschtig				der Donnerstag				the Thursday			
+de Friitig				der Freitag				the Friday			
+de Samschtig				der Samstag				the Saturday			
+de Sunntig				der Sonntag				the Sunday			
+am Sunntig				am Sonntag				on Sunday			
 d Beiz				die Kneipe				the bar			
-d Stube	Stubä							the parlour	the lounge		
+d Stube								the parlour	the lounge	the living room	
 spöter				spater				later			
 Ich ha chalt.	Ich ha kalt.			Es ist mir kalt.				I'm (feeling) cold.			
 ich hät gärn				Ich möchte				I would like (to order)			
@@ -492,7 +492,7 @@ d Stange				das kleine Bier				the small beer
 um Mitternacht				am Mitternacht				at midnight			
 dihei	dihai			zuhause				at home			
 hei gaa	hei gah	hai gah		nach hause gehen				to go home			
-s Trottoir								the sidewalk			
+s Trottoir				der Gehweg	der Bürgersteig			the sidewalk			
 s Trottinette	s Trotti							the (child's push) scooter			
 öpper				jemand				someone	somebody		
 öppe				ungefahr				around	more or less	about	
@@ -517,14 +517,14 @@ use				nach drausen	hinaus 			out	outside
 duse	dusse			draussen				outside			
 Ich bin dusse.				ich bin draussen							
 ich bin dine.				Ich bin drinnen							
-Ich bin obe.	Ich bin dobe.			Ich bin oben							
-Ich bin une.	Ich bin dune.			Ich bin unten							
-Ich gang use				Ich gehe raus							
-Ich gang ine				Ich gehe rein							
-Ich gang ufe.											
-Ich gang abe.											
-S Schlafzimmer isch über de Kuchi.								The bedroom is above the kitchen			
-S Schlafzimmer isch under de Kuchi.								The bedroom is below the kitchen.			
+Ich bin obe.	Ich bin dobe.			Ich bin oben				I am above.	I am upstairs.		
+Ich bin une.	Ich bin dune.			Ich bin unten				I am below.	I am downstairs.		
+Ich gang use.				Ich gehe raus				I go out.			
+Ich gang ine.				Ich gehe rein				I go in.			
+Ich gang ufe.				Ich gehe nach oben.				I go up.			
+Ich gang abe.				Ich gehe nach unten.				I go down.			
+S Schlafzimmer isch über de Kuchi.				Das Schlafzimmer ist über der Küche.				The bedroom is above the kitchen			
+S Schlafzimmer isch under de Kuchi.				Das Schlafzimmer ist unter der Küche.				The bedroom is below the kitchen.			
 dune				da unten				downstairs			
 am Mittwuch				am Mittwoch	Mittwochs			on Wednesday	(on) Wednesdays		
 dä Maa				deiser Mann				this man			
