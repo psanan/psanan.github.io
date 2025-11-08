@@ -3,7 +3,7 @@
 <title>patricksanan.org</title>
 <link href="https://patricksanan.org/" ref="alternate"/>
 <link href="https://patricksanan.org/feeds/all.atom.xml" rel="self"/>
-<updated>2025-11-08T11:58:27+01:00</updated>
+<updated>2025-11-08T13:36:59+01:00</updated>
 <author><name>Patrick Sanan</name> </author>
 <id>https://patricksanan.org</id>
 <rights>Copyright 2023-2025 Patrick Sanan</rights>
@@ -123,6 +123,15 @@
 <updated>2022-06-04</updated>
 <summary>https://patricksanan.org/swiss-canyon-trail-81k-2022.html</summary>
 <content>https://patricksanan.org/swiss-canyon-trail-81k-2022.html</content>
+</entry>
+<entry>
+<title>swiss-german-english-guide.html</title>
+<link href="https://patricksanan.org/swiss-german-english-guide.html"/>
+<id>https://patricksanan.org/swiss-german-english-guide.html</id>
+<published>2025-11-08</published>
+<updated>2025-11-08</updated>
+<summary>https://patricksanan.org/swiss-german-english-guide.html</summary>
+<content>https://patricksanan.org/swiss-german-english-guide.html</content>
 </entry>
 <entry>
 <title>tds.html</title>
