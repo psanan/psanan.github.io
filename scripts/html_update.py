@@ -40,7 +40,7 @@ def _process_header_lines(header_lines):
          '<a href="reports.html">trip reports</a> | '
          '<a href="music.html">music</a> | '
          '<a href="teaching-and-open-source-software.html">academic</a> | '
-         '<a href="links.html">links</a> | '
+         '<a href="misc.html">misc.</a> | '
          '<a href="Sanan_CV.pdf">CV</a> | '
          '<a href="contact.html">contact</a> '
          '<span style="float:right;">'
