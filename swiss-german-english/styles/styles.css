@@ -24,6 +24,23 @@ h1 {
   padding: 0.1em 0.2em
 }
 
+table {
+  margin-left: 20px;
+}
+
+table td {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+table tr:nth-child(odd) td{
+  background-color: /*base2*/#eee8d5;;
+}
+
+table tr:nth-child(even) td{
+  background-color: /*base3*/#fdf6e3;
+}
+
 figcaption {
   font: italic sans-serif;
 }
@@ -57,39 +74,4 @@ figcaption {
   background: /*base2*/#eee8d5;
   display: table-caption;
   caption-side: bottom;
-}
-
-.footer {
-  color: /*base1*/#93a1a1;
-  font-size: smallest;
-}
-
-.footer hr {
-  color: /*base01*/#586e75;
-}
-
-.publication-date {
-  font-style: bold;
-}
-
-.updated-date {
-  font-style: italic;
-  font-size: smaller;
-}
-
-table {
-  margin-left: 20px;
-}
-
-table td {
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-table tr:nth-child(odd) td{
-  background-color: /*base2*/#eee8d5;;
-}
-
-table tr:nth-child(even) td{
-  background-color: /*base3*/#fdf6e3;
 }
