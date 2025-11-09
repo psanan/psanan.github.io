@@ -1,6 +1,5 @@
 #!/usr/bin/env sh
 
-
 printf -- "Updating HTML\n"
 python scripts/html_update.py
 return_value=$?
@@ -10,6 +9,8 @@ if [ $return_value -ne 0 ]; then
 else
 
 printf -- "Updating feed\n"
+# This may update a timestamp and thus require an additional commit before
+# deployment. We prefer not to make git commits programmatically.
 python scripts/feed_update.py
 
 if [ -n "$(git status -s)" ]; then
