@@ -16,13 +16,14 @@ else
 printf -- "Updating feed\n"
 python scripts/feed_update.py
 
-printf -- "Pushing branch for GitHub pages\n"
+gh_pages_branch="gh-pages"
+printf -- "Pushing $gh_pages_branch for GitHub pages\n"
 # Deploy the site subtree, so the index is at the root as required
 # by Github pages.
 # Instead of "git subtree push", use a temporary local branch to make the force possible.
 
 git subtree split --prefix site -b gh-pages-temp
-git push --force origin gh-pages-temp:gh-pages
+git push --force origin gh-pages-temp:$gh_pages_branch
 git branch -D gh-pages-temp
 
 fi  # HTML update check
