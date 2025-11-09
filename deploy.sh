@@ -22,9 +22,10 @@ printf -- "Pushing $gh_pages_branch for GitHub pages\n"
 # by Github pages.
 # Instead of "git subtree push", use a temporary local branch to make the force possible.
 
-git subtree split --prefix site -b gh-pages-temp
-git push --force origin gh-pages-temp:$gh_pages_branch
-git branch -D gh-pages-temp
+gh_pages_temp_branch="$(gh_pages_branch)-temp"
+git subtree split --prefix site -b "$gh_pages_temp_branch"
+git push --force origin "$gh_pages_temp_branch:$gh_pages_branch"
+git branch -D "$gh_pages_temp_branch"
 
 fi  # HTML update check
 fi  # git status check
