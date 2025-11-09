@@ -9,7 +9,7 @@ ich bin	ich bi		ich bin			I am
 ich chan	ich cha		ich kann			I am able to	I can		
 au			auch			also			
 no	na		noch			still			
-mit oi	mit eu		mit euch			with you (all)			
+mit oi			mit euch			with you (all)			
 dur	dure		durch			through			
 Züri			Zürich			Zurich			
 äntli			endlich			finally			
@@ -17,6 +17,7 @@ welles			welches			which
 grad			gerade			just	right away		
 jetz			jetzt			now			
 gääl			gelb			yellow			
+kei Lust me	kai Lust meh		kein Lust mehr			no more interest			
 kai			kein			not a			
 choche	koche		kochen			to cook	to boil		
 d Brugg			die Brücke			the bridge			
@@ -53,7 +54,6 @@ d Ziit			die Zeit			the time
 bi ois			bei uns			at our place			
 d Wuche			die Woche			the week			
 d Sunne			die Sonne			the sun			
-s Brötli			das Brotchen			the roll			
 d Quittig			die Quittung			the receipt			
 d Rächnig			die Rechnung			the bill			
 uufruume			aufräumen			to clean up	to tidy up		
@@ -182,12 +182,12 @@ ich mache			ich mache			I make
 du machsch			du machst			you make			
 er macht			er macht			he makes			
 mir mached			wir machen			we make			
-ich bi gsi	ich bin gsii	ich bin gsi	ich bin gewesen			I was			
-ich bi cho	ich bin cho		ich bin gekommen			I came			
-ich bin gange			ich bin gegangen			I went			
 du haissisch			du heisst			you are called			
 du issisch			du esst			you eat			
 du lissisch			du liest			you read			
+ich bi gsi	ich bin gsii	ich bin gsi	ich bin gewesen			I was			
+ich bi cho	ich bin cho		ich bin gekommen			I came			
+ich bin gange			ich bin gegangen			I went			
 cho	choo		kommen			to come			
 ich chume			ich komme			I come			
 du chunsch			du kommst			you come			
@@ -400,6 +400,7 @@ d Bäum			die Bäume			the trees
 d Büecher			die Bücher			the books			
 d Lampene	d Lampe		die Lampen			the lamps			
 d Jöb			die Jobs			the jobs			
+s Brötli			das Brotchen			the roll			
 s Gipfeli						the (small) croissant			
 es Bitzli			ein Bisschen			a little bit			
 s Büsi	d Chatz		die Katze			the cat			
@@ -425,11 +426,10 @@ s Schtägehuus			das Treppenhaus			the stairwell	the stairs
 d Büchs	d Dose		die Dose			the can			
 d Chile			die Kirche			the church			
 d Schtäge			die Treppe			the staircase			
-d Stube						the parlour	the lounge	the living room	
 d Beiz			die Kneipe			the bar			
 s Ross			das Pferd			the horse			
 s Rüebli	s Rüäbli		die Karotte			the carrot			
-d Schtube			das Wohnzimmer			the living room			
+d Schtube	d Stube		das Wohnzimmer			the living room			
 s Pule	s Poulet		das Hähnchen			the chicken			
 s Velo			das Fahrrad			the (road) bike			
 s Portmone	s Portmonnaie		die Brieftasche			the wallet			
