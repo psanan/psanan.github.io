@@ -1,9 +1,5 @@
 #!/usr/bin/env sh
 
-if [ -n "$(git status -s)" ]; then
-  printf -- "Git status is not clean. Commit changes and resolve untracked files.\n"
-  return 1
-else
 
 printf -- "Updating HTML\n"
 python scripts/html_update.py
@@ -16,18 +12,22 @@ else
 printf -- "Updating feed\n"
 python scripts/feed_update.py
 
-gh_pages_branch="gh-pages"
-printf -- "Force pushing %s branch for GitHub pages\n" "$gh_pages_branch"
-# Deploy the site subtree, so the index is at the root as required
-# by Github pages.
-# Instead of "git subtree push", use a temporary local branch to make the force possible.
-gh_pages_temp_branch="$gh_pages_branch-temp"
-git subtree split --prefix site -b "$gh_pages_temp_branch"
-git push --force origin "$gh_pages_temp_branch:$gh_pages_branch"
-git branch -D "$gh_pages_temp_branch"
+if [ -n "$(git status -s)" ]; then
+  printf -- "Git status is not clean. Commit changes and resolve untracked files.\n"
+  return 1
+else
+  gh_pages_branch="gh-pages"
+  printf -- "Force pushing %s branch for GitHub pages\n" "$gh_pages_branch"
+  # Deploy the site subtree, so the index is at the root as required
+  # by Github pages.
+  # Instead of "git subtree push", use a temporary local branch to make the force possible.
+  gh_pages_temp_branch="$gh_pages_branch-temp"
+  git subtree split --prefix site -b "$gh_pages_temp_branch"
+  git push --force origin "$gh_pages_temp_branch:$gh_pages_branch"
+  git branch -D "$gh_pages_temp_branch"
+fi
 
 fi  # HTML update check
-fi  # git status check
 
 # # Alternative to rsync files directly.
 # # This relies on an SSH alias "webhost"

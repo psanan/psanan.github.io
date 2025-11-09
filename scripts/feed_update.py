@@ -35,8 +35,11 @@ def _scrape_html(path):
 def _feed_header():
     lines = []
 
+    # Truncate to the nearest hour for privacy reasons,
+    # and to avoid complications with git status when deploying
+    # via a Git-based approach (e.g. Github pages).
     datetime_string = datetime.datetime.now().astimezone().replace(
-        microsecond=0).isoformat()
+        minute=0,second=0,microsecond=0).isoformat()
 
     lines.append('<?xml version="1.0" encoding="utf-8"?>\n')
     lines.append('<feed xmlns="http://www.w3.org/2005/Atom">\n')
