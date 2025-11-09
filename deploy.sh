@@ -17,12 +17,11 @@ printf -- "Updating feed\n"
 python scripts/feed_update.py
 
 gh_pages_branch="gh-pages"
-printf -- "Pushing $gh_pages_branch for GitHub pages\n"
+printf -- "Force pushing %s branch for GitHub pages\n" "$gh_pages_branch"
 # Deploy the site subtree, so the index is at the root as required
 # by Github pages.
 # Instead of "git subtree push", use a temporary local branch to make the force possible.
-
-gh_pages_temp_branch="$(gh_pages_branch)-temp"
+gh_pages_temp_branch="$gh_pages_branch-temp"
 git subtree split --prefix site -b "$gh_pages_temp_branch"
 git push --force origin "$gh_pages_temp_branch:$gh_pages_branch"
 git branch -D "$gh_pages_temp_branch"
@@ -30,7 +29,7 @@ git branch -D "$gh_pages_temp_branch"
 fi  # HTML update check
 fi  # git status check
 
-# # Alternate to rsync files directly.
+# # Alternative to rsync files directly.
 # # This relies on an SSH alias "webhost"
 # # to define where to upload files.
 # # See e.g. https://wiki.debian.org/SshAliases
