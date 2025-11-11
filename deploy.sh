@@ -5,7 +5,7 @@ python scripts/html_update.py
 return_value=$?
 if [ $return_value -ne 0 ]; then
   printf -- "HTML update had an effect! Confirm and re-run\n"
-  return $return_value
+  return $return_value 2> /dev/null || exit $return_value
 else
 
 printf -- "Updating feed\n"
@@ -15,7 +15,7 @@ python scripts/feed_update.py
 
 if [ -n "$(git status -s)" ]; then
   printf -- "Git status is not clean. Commit changes and resolve untracked files.\n"
-  return 1
+  return 1 2> /dev/null || exit 1
 else
   gh_pages_branch="gh-pages"
   printf -- "Force pushing %s branch for GitHub pages\n" "$gh_pages_branch"
