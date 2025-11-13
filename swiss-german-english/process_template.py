@@ -4,18 +4,26 @@ import file_io
 
 STYLES = [["<b>", "</b>"], ["<i>", "</i>"], ["", ""]]
 
+# This header will be further updated by the HTML update script.
 HEADER= """
 <!DOCTYPE html>
-<!-- DO NOT EDIT. This file is generated from a template -->
 <html lang="en-US">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <meta name="author" content="Patrick Sanan" />
-    <title>Swiss German in N Flashcards</title>
+    <title>Swiss German Guide</title>
     <link rel="stylesheet" href="styles/styles.css" />
+    <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Atom feed" />
   </head>
 <body>
+<div>
+<a href="index.html">patricksanan.org</a> | <a href="reports.html">trip reports</a> | <a href="music.html">music</a> | <a href="teaching-and-open-source-software.html">academic</a> | <a href="misc.html">misc.</a> | <a href="Sanan_CV.pdf">CV</a> | <a href="contact.html">contact</a> <span style="float:right;"><a href="atom.xml" rel="alternate">feed</a> <a href="atom.xml" rel="alternate"><img src="images/feed-icon-14x14.png" style="vertical-align:middle" /></a></span>
+</div>
+<h1>Swiss German Guide</h1>
+<!--END HEADER -- This line and above can be automatically rewritten!-->
+
+<!-- DO NOT EDIT -- This file is generated from a template! -->
 """
 
 FOOTER="</body></html>"
