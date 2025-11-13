@@ -42,7 +42,7 @@ de Chäfer			der Käfer			the beetle
 de Chäs	de Chääs		der Käse			the cheese			
 d Brüle			die Brille			the (pair of) glasses			
 s Buäch			das Buch			the book			
-guet	guät		gut			good			
+guet			gut			good			
 d Muus			die Maus			the mouse			
 s Huus			das Haus			the house			
 bruuche			brauchen			to need			
@@ -107,7 +107,7 @@ Hätsi Hunger?			Hat sie Hunger?			Is she hungry?
 Wämmer go skifahre?						Shall we go and ski?			
 Gömmer go poschte?						Shall we go and shop?			
 Hämmer öppis gha?			Haben wir etwas gehabt?			Did we have something?			
-Simmer verspötet?			Sind wir verspätet?			Are we late?			
+Simmer verschpötet?			Sind wir verspätet?			Are we late?			
 Händr Spass?			Habt ihr Spass?			Are you (all) having fun?			
 Du froischdi.			Du freust dich.			You are happy.	You are glad.		
 Ich rasiärmi hütt nöd.			Ich rasiere mich heute nicht.			I don't shave today.			
@@ -133,7 +133,7 @@ mit irem Chind			mit ihrem Kind			with her child
 mit ire Chind			mit ihren Kinder			with her children			
 oise Maa			unser Mann			our husband			
 oije Maa			eurer Mann			your (all's) husband			
-dä Maa			deiser Mann			this man			
+dä Maa			dieser Mann			this man			
 diä Frau			diese Frau			this woman			
 das Chind			dieses Kind			this child			
 diä Chind			diese Kinder			these children			
@@ -233,7 +233,7 @@ du laisch			du legst			you lay (something) down
 er lait			er legt			he lays (something) down			
 mir legged			wir legen			we lay (something) down			
 ich ha gleit			ich ha gelegt			I laid (something) down			
-müese	müäse		müssen			to have to			
+müese			müssen			to have to			
 ich mues	ich muäs	ich muen	ich muss			I have to	I must		
 du muesch	du muäsch		du musst			you have to	you must		
 sie mues	sie muäs	sie muen	sie muss			she has to	she must		
@@ -251,7 +251,7 @@ du saisch			du sagst			you say
 er sait			er sagt			he says			
 mir säged			wir sagen			we say			
 ich ha gsait			ich habe gesagt			I said			
-schtaa	staa		stehen			to stand			
+schtaa			stehen			to stand			
 ich schtaa			ich stehe			I stand			
 du schtaasch			du stehst			you stand			
 er schtaat			er steht			he stands			
@@ -260,7 +260,7 @@ ich bin gschtande			ich bin gestanden			I stood
 wüsse			wissen			to know (something)			
 ich waiss			ich weiss			I know (something)			
 du waisch			du weisst			you know (something)			
-sie waiss			sie weisst			she knows (something)			
+sie waiss			sie weiss			she knows (something)			
 mir wüssed			wir wissen			we know (something)			
 ich ha gwüsst			ich habe gewusst			I knew (something)			
 welle			wollen			to want			
@@ -290,7 +290,7 @@ schmöcke			schmecken	riechen		to taste	to smell
 tschuute			Fussball spielen			to play soccer	to play football		
 zügle			umziehen			to move (houses)			
 chrampfe						to work  hard			
-übercho	überchoo		erhalten	bekommen		to receive			
+übercho			erhalten	bekommen		to receive			
 Sport triibe						to play sports			
 härcho vo			kommen von			to come from			
 laa			lassen			to let			
@@ -354,7 +354,7 @@ Am viertel ab zwölfi isster Zmittag.			Um viertel nach zwölf isst er zu Mittag
 zwüsched zwölf und ais			zwischen zwölf und eins			between twelve (o'clock) and one (o'clock)			
 vom achti bis am nüni			von acht bis neun Uhr			from eight o'clock until nine o'clock			
 Wiä läbsch?	Wie lebsch?		Wie geht's?			How are you?	How's it going?		
-gäll						right?			
+gäll						right?	Don't you think?		
 hoi						hello	hi		
 hoi zäme			hallo zusammen			hello (to more than one person)			
 grüezi						hello	greetings		
@@ -366,19 +366,19 @@ sorry						excuse me
 ade						goodbye			
 Uf widerluege!			Auf wiedersehen!			Goodbye!			
 Hör uf!			Hör auf!			Stop it!			
-Ich ha chalt.	Ich ha kalt.		Es ist mir kalt.			I'm (feeling) cold.			
+Ich ha chalt.	Ich ha kalt.		Es ist mir kalt.	Mir ist kalt.		I'm (feeling) cold.			
 ich hät gärn			Ich möchte			I would like (to order)			
 i de Nöchi			in der Nähe			nearby			
 Was triibsch?						What's up?			
 im Uusgang gaa						to go out (on the town)			
-Was isch für Ziit?			Wie Uhr ist es?			What time is it?			
+Was isch für Ziit?			Wie Uhr ist es?	Wieviel Uhr ist es?		What time is it?			
 Ich chume grad.			Ich komm gleich.			I'm coming right away.			
 äbä			eben						
 hei gaa	hei gah	hai gah	nach hause gehen			to go home			
 dihei	dihai		zuhause			at home			
 morn			morgen			tomorrow			
 am morge			am morgen			in the morning			
-spöter			später			later			
+schpöter			später			later			
 Ich schaffe z Züri.			Ich arbeite in Zürich.			I work in Zurich.			
 Ich bin uf de Wält cho	Ich bin gebore		Ich bin geboren			I was born			
 wüki			wirklich			really			
