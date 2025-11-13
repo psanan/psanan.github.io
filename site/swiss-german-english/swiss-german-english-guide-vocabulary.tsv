@@ -30,8 +30,8 @@ de Gascht			der Gast			the guest
 schpile			spielen			to play			
 de Puure	de Puur		der Bauer			the farmer			
 Dütsch	Tütsch		Deutsch			German			
-dörfe	törfe		durfen			to be allowed to			
-d Liecht			die Licht			the light			
+dörfe	törfe		dürfen			to be allowed to			
+s Liecht			das Licht			the light			
 Wiä bitte?	Wie bitte?		Wie bitte?			I beg your pardon?			
 de Spiegel			der Spiegel			the mirror			
 nie			nie			never			
@@ -59,7 +59,7 @@ d Rächnig			die Rechnung			the bill
 uufruume			aufräumen			to clean up	to tidy up		
 iistiige			einsteigen			to get on			
 uusstiige			aussteigen			to get off			
-aafange			anfange			to start			
+aafange			anfangen			to start			
 bsueche	bsuäche		besuchen			to visit			
 ich ha gmacht			ich habe gemacht			I made			
 Schtai am Rhii			Stein am Rhein			Stein am Rhein			
@@ -77,7 +77,7 @@ kai Chind			keine Kinder			no children
 mit em Maa			mit dem Mann			with the man			
 mit de Frau			mit der Frau			with the woman			
 mit em Chind			mit dem Kind			with the child			
-mit de Chind			mit den Kinder			with the children			
+mit de Chind			mit den Kindern			with the children			
 mit emene Maa	miteme Maa	mitemene Maa	mit einem Mann			with a man			
 mit enere Frau	mitere Frau	mitenere Frau	mit einer Frau			with a woman			
 mit emene Chind			mit einem Chind			with a child			
@@ -111,8 +111,8 @@ Simmer verspötet?			Sind wir verspätet?			Are we late?
 Händr Spass?			Habt ihr Spass?			Are you (all) having fun?			
 Du froischdi.			Du freust dich.			You are happy.	You are glad.		
 Ich rasiärmi hütt nöd.			Ich rasiere mich heute nicht.			I don't shave today.			
-Ich wäschmer hütt d Haar nöd.			I wasche mich die Haare heute nicht.			I don't wash my hair today.			
-Wiä oft putzischder d Zää?.			Wie oft putzt du dir die Zähne?			How often do you brush your teeth?			
+Ich wäschmer hütt d Haar nöd.			I wasche mir die Haare heute nicht.			I don't wash my hair today.			
+Wiä oft putzischder d Zää?			Wie oft putzt du dir die Zähne?			How often do you brush your teeth?			
 min Maa			mein Mann			my husband			
 mini Frau			meine Frau			my wife			
 mis Chind			mein Kind			my child			
@@ -193,11 +193,11 @@ ich chume			ich komme			I come
 du chunsch			du kommst			you come			
 er chunt			er kommt			he comes			
 mir chömed			wir kommen			we come			
-chöne			konnen			to be able to			
+chöne			können			to be able to			
 du chasch			du kannst			you are able to	you can		
 er chan	er cha		er kann			he is able to	he can		
 mir chönd			wir können			we are able to	we can		
-ich ha chöne									
+ich ha chöne			ich habe gekonnt	ich konnte		I was able to	I could		
 ich dörf	ich törf	ich döf	ich darf			I am allowed to			
 du dörsch	du törfsch		du darfst			you are allowed to			
 sie dörf			sie darf			she is allowed to			
@@ -214,7 +214,7 @@ du gseesch	du gsehsch		du siehst			you see
 er gseet	er gseht		er sieht			he sees			
 mir gsend	mir gsänd		wir sehen			we see			
 ich ha gsee	ich ha gseh		wir haben gesehen			we saw			
-ghöre			horen			to hear (passively)			
+ghöre			hören			to hear (passively)			
 gää	gäh		geben			to give			
 ich gib			ich gebe			I give			
 du gisch			du gibst			you give			
@@ -268,7 +268,7 @@ ich wett			ich will			I want
 du wetsch	du wotsch	du wötsch	du willst			you want			
 er wett			er will			he wants			
 mir wend	mir wänd		wir wollen			we want			
-ich ha welle			ich haben wollen			I wanted			
+ich ha welle			ich habe gewollt	ich wollte		I wanted			
 ich sölle			ich solle						
 du söllsch			du sollst						
 er söll			er soll						
@@ -280,7 +280,7 @@ mir sötted			wir sollten			we ought to	we should
 aalüte			anrufen			to call (on the phone)			
 poschte			einkaufen			to shop			
 pfuuse	schlafe		schlafen			to sleep			
-luege			sehen	gücken		to look			
+luege			sehen	gucken		to look			
 löse			hören			to listen			
 schaffe			arbeiten			to work			
 laufe			laufen	spazieren		to walk			
@@ -315,7 +315,7 @@ elf			elf			eleven
 zwölf			zwölf			twelve			
 drizä			dreizehn			thirteen			
 viärzä	vierzä		vierzehn			fourteen			
-füfzä			fünfzeh			fifteen			
+füfzä			fünfzehn			fifteen			
 sächzä			sechzehn			sixteen			
 sibezä			siebzehn			seventeen			
 achzä			achtzehn			eighteen			
@@ -378,7 +378,7 @@ hei gaa	hei gah	hai gah	nach hause gehen			to go home
 dihei	dihai		zuhause			at home			
 morn			morgen			tomorrow			
 am morge			am morgen			in the morning			
-spöter			spater			later			
+spöter			später			later			
 Ich schaffe z Züri.			Ich arbeite in Zürich.			I work in Zurich.			
 Ich bin uf de Wält cho	Ich bin gebore		Ich bin geboren			I was born			
 wüki			wirklich			really			
@@ -392,8 +392,8 @@ de Sunntig			der Sonntag			the Sunday
 am Sunntig			am Sonntag			on Sunday			
 d Zää			die Zähne			the teeth			
 s Muul			der Mund			the mouth			
-de Öpfel			das Apfel			the apple			
-de Härdöpfel	de Herdöpfel		der Kartoffel			the potato			
+de Öpfel			der Apfel			the apple			
+de Härdöpfel	de Herdöpfel		die Kartoffel			the potato			
 s Epeeri			die Erdbeere			the strawberry			
 d Bire	d Pire		die Birne			the pear			
 d Fraue			die Frauen			the women			
@@ -401,12 +401,12 @@ d Bäum			die Bäume			the trees
 d Büecher			die Bücher			the books			
 d Lampene	d Lampe		die Lampen			the lamps			
 d Jöb			die Jobs			the jobs			
-s Brötli			das Brotchen			the roll			
+s Brötli			das Brötchen			the roll			
 s Gipfeli						the (small) croissant			
 es Bitzli			ein Bisschen			a little bit			
 s Büsi	d Chatz		die Katze			the cat			
 s Guetzli			die Kekse			the cookie			
-de Zahni			der Zahnartzt			the dentist			
+de Zahni			der Zahnarzt			the dentist			
 d Ufzgi			die Hausaufgaben			the homework			
 de Kinski	de Chindsgi		der Kindergarten			the kindergarten			
 de Flohmi	de Flohmärt		der Flohmarkt			the flea market			
@@ -419,7 +419,7 @@ d Peperoni			die Paprika			the bell pepper	the capsicum (pepper)
 mol	moll	doch	doch			yu-huh	is so	is too	
 de Töff			das Motorrad			the motorcycle			
 de Anke	de Butter		die Butter			the butter			
-de Zmorge			das Frühstuck			breakfast			
+de Zmorge			das Frühstück			breakfast			
 de Zmittag			das Mittagessen			the lunch			
 de Znacht			das Abendessen			dinner	supper		
 d Stange			das kleine Bier			the small beer			
@@ -447,13 +447,13 @@ Ich bin obe.	Ich bin dobe.		Ich bin oben			I am above.	I am upstairs.
 Ich bin une.	Ich bin dune.		Ich bin unten			I am below.	I am downstairs.		
 Ich gang ufe.			Ich gehe nach oben.			I go up.			
 Ich gang abe.			Ich gehe nach unten.			I go down.			
-S Schlafzimmer isch über de Kuchi.			Das Schlafzimmer ist über der Küche.			The bedroom is above the kitchen			
+S Schlafzimmer isch über de Kuchi.			Das Schlafzimmer ist über der Küche.			The bedroom is above the kitchen.			
 S Schlafzimmer isch under de Kuchi.			Das Schlafzimmer ist unter der Küche.			The bedroom is below the kitchen.			
 nüt			nichts			nothing			
 nöd			nicht			not			
 nüme			nicht mehr			no more	not anymore		
 nume	nur		nur			only			
-nonig			noch nicht						
+nonig			noch nicht			not yet			
 niemer	niämer		niemand			nobody			
 öppis			etwas			something			
 öpper			jemand			someone	somebody		
