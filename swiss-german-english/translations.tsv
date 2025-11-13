@@ -45,7 +45,7 @@ schlächt				schlecht				bad
 de Chäfer				der Käfer				the beetle			
 d Brüle				die Brille				the (pair of) glasses			
 s Buäch				das Buch				the book			
-guet	guät			gut				good			
+guet				gut				good			
 s Huus				das Haus				the house			
 d Muus				die Maus				the mouse			
 s Füürzüüg				das Feuerzeug				the lighter			
@@ -156,7 +156,7 @@ ich wett				ich will				I want
 du wetsch	du wotsch	du wötsch		du willst				you want			
 er wett				er will				he wants			
 ich ha welle				ich habe gewollt	ich wollte			I wanted			
-müese	müäse			müssen				to have to			
+müese				müssen				to have to			
 ich mues	ich muäs	ich muen		ich muss				I have to	I must		
 du muesch	du muäsch			du musst				you have to 	you must		
 sie mues	sie muäs	sie muen		sie muss				she has to	she must		
@@ -219,7 +219,7 @@ mit minere grosse Frau				mit meiner grossen Frau				with my big wife
 mit mim grosse Chind				mit meinem grossen Kind				with my big child			
 mit mine grosse Chind				mit meinen grossen Kinder				with my big children			
 Häsch Hunger?	Häsch du Hunger?			Hast du Hunger?				Are you hungry?			
-Ich froimi seer.				Ich freut mich sehr.				I am very pleased (to meet you).			
+Ich froimi seer.				Ich freu mich sehr.				I am very pleased (to meet you).			
 s Büsi	d Chatz			die Katze				the cat			
 es Bitzli				ein Bisschen				a little bit			
 s Gipfeli								the (small) croissant			
@@ -227,7 +227,7 @@ de Bueb				der Junge				the boy
 s Velo				das Fahrrad				the (road) bike			
 											
 öppis				etwas				something			
-Was isch für Ziit?				Wie Uhr ist es?				What time is it?			
+Was isch für Ziit?				Wie Uhr ist es?	Wieviel Uhr ist es?			What time is it?			
 Ich chume grad.				Ich komm gleich.				I'm coming right away.			
 fain				lecker				tasty			
 mega											
@@ -378,7 +378,7 @@ tschuute				Fussball spielen				to play soccer	to play football
 zügle				umziehen				to move (houses)			
 chrampfe								to work  hard			
 ahha				tragen				to wear (clothes)			
-übercho	überchoo			erhalten	bekommen			to receive			
+übercho				erhalten	bekommen			to receive			
 Sport triibe								to play sports			
 abziä				ausziehen				to take off (clothes)			
 Hör uf!				Hör auf!				Stop it!			
@@ -388,7 +388,7 @@ sünnele								to sunbathe
 zmörgele				frühstücken				to eat breakfast (leisurely)			
 käffele								to drink coffee (leisurely)			
 laa				lassen				to let			
-schtaa	staa			stehen				to stand			
+schtaa				stehen				to stand			
 ich schtaa				ich stehe				I stand			
 du schtaasch				du stehst				you stand			
 er schtaat				er steht				he stands			
@@ -416,12 +416,12 @@ Hätsi Hunger?				Hat sie Hunger?				Is she hungry?
 Wämmer go skifahre?								Shall we go and ski?			
 Gömmer go poschte?								Shall we go and shop?			
 Hämmer öppis gha?				Haben wir etwas gehabt?				Did we have something?			
-Simmer verspötet?				Sind wir verspätet?				Are we late?			
+Simmer verschpötet?				Sind wir verspätet?				Are we late?			
 Händr Spass?				Habt ihr Spass?				Are you (all) having fun?			
 wüsse				wissen				to know (something)			
 ich waiss				ich weiss				I know (something)			
 du waisch				du weisst				you know (something)			
-sie waiss				sie weisst				she knows (something)			
+sie waiss				sie weiss				she knows (something)			
 mir wüssed				wir wissen				we know (something)			
 ich ha gwüsst				ich habe gewusst				I knew (something)			
 nää				nehmen				to take			
@@ -450,7 +450,7 @@ sorry								excuse me
 ade								goodbye			
 Uf widerluege!				Auf wiedersehen!				Goodbye!			
 äbä				eben							
-gäll								right?			
+gäll								right?	Don't you think?		
 Ich schaffe z Züri.				Ich arbeite in Zürich.				I work in Zurich.			
 Ich bin uf de Wält cho	Ich bin gebore			Ich bin geboren				I was born			
 de Härdöpfel	de Herdöpfel			die Kartoffel				the potato			
@@ -469,8 +469,8 @@ de Sunntig				der Sonntag				the Sunday
 am Sunntig				am Sonntag				on Sunday			
 d Beiz				die Kneipe				the bar			
 											
-spöter				später				later			
-Ich ha chalt.	Ich ha kalt.			Es ist mir kalt.				I'm (feeling) cold.			
+schpöter				später				later			
+Ich ha chalt.	Ich ha kalt.			Es ist mir kalt.	Mir ist kalt.			I'm (feeling) cold.			
 ich hät gärn				Ich möchte				I would like (to order)			
 i de Nöchi				in der Nähe				nearby			
 im Uusgang gaa								to go out (on the town)			
@@ -522,7 +522,7 @@ S Schlafzimmer isch über de Kuchi.				Das Schlafzimmer ist über der Küche.			
 S Schlafzimmer isch under de Kuchi.				Das Schlafzimmer ist unter der Küche.				The bedroom is below the kitchen.			
 dune				da unten				downstairs			
 am Mittwuch				am Mittwoch	Mittwochs			on Wednesday	(on) Wednesdays		
-dä Maa				deiser Mann				this man			
+dä Maa				dieser Mann				this man			
 diä Frau				diese Frau				this woman			
 das Chind				dieses Kind				this child			
 diä Chind				diese Kinder				these children			
@@ -546,7 +546,7 @@ de Anke	de Butter			die Butter				the butter
 d Chilbi				die Kirchweih				the Kermesse	the (particular kind of Germanic) outdoor fun festival		
 d Schtube	d Stube			das Wohnzimmer				the living room			
 gumpe				springen				to jump			
-Ich gange inn See				Ich gehen in den See				I go into the lake			
+Ich gange inn See				Ich gehe in den See				I go into the lake			
 welles				welches				which			
 de Chäs	de Chääs			der Käse				the cheese			
 s Kafi				das Café				the café			
