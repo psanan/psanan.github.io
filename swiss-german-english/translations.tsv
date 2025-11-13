@@ -7,7 +7,6 @@ er chunt				er kommt				he comes
 mir chömed				wir kommen				we come			
 ich bi cho	ich bin cho			ich bin gekommen				I came			
 geschter				gestern				yesterday			
-											
 da				hier				here			
 det	dete			da				there			
 det äne				da drüben				over there			
@@ -35,7 +34,7 @@ schpile				spielen				to play
 de Gascht				der Gast				the guest			
 de Puure	de Puur			der Bauer				the farmer			
 Dütsch	Tütsch			Deutsch				German			
-d Liecht				die Licht				the light			
+s Liecht				das Licht				the light			
 Wiä bitte?	Wie bitte?			Wie bitte?				I beg your pardon?			
 de Spiegel				der Spiegel				the mirror			
 tüüf				tief				deep			
@@ -57,11 +56,11 @@ d Ziit				die Zeit				the time
 bi ois				bei uns				at our place			
 d Wuche				die Woche				the week			
 d Sunne				die Sonne				the sun			
-s Brötli				das Brotchen				the roll			
+s Brötli				das Brötchen				the roll			
 d Rächnig				die Rechnung				the bill			
 d Quittig				die Quittung				the receipt			
 uufruume				aufräumen				to clean up	to tidy up		
-aafange				anfange				to start			
+aafange				anfangen				to start			
 iistiige				einsteigen				to get on			
 uusstiige				aussteigen				to get off			
 de Maa				der Mann				the man			
@@ -79,7 +78,7 @@ kai Chind				keine Kinder				no children
 mit em Maa				mit dem Mann				with the man			
 mit de Frau				mit der Frau				with the woman			
 mit em Chind				mit dem Kind				with the child			
-mit de Chind				mit den Kinder				with the children			
+mit de Chind				mit den Kindern				with the children			
 mit emene Maa	miteme Maa	mitemene Maa		mit einem Mann				with a man			
 mit enere Frau	mitere Frau	mitenere Frau		mit einer Frau				with a woman			
 mit emene Chind				mit einem Chind				with a child			
@@ -140,13 +139,13 @@ d Chile				die Kirche				the church
 de Leu				der Löwe				the lion			
 s Chüssi				das Kissen				the pillow			
 de Güggel				der Hahn				the rooster			
-chöne				konnen				to be able to			
+chöne				können				to be able to			
 ich chan	ich cha			ich kann				I am able to	I can		
 du chasch				du kannst				you are able to	you can		
 er chan	er cha			er kann				he is able to	he can		
 mir chönd				wir können				we are able to	we can		
-ich ha chöne											
-dörfe	törfe			durfen				to be allowed to			
+ich ha chöne				ich habe gekonnt	ich konnte			I was able to	I could		
+dörfe	törfe			dürfen				to be allowed to			
 ich dörf	ich törf	ich döf	ich töf	ich darf				I am allowed to			
 du dörsch	du törfsch			du darfst				you are allowed to			
 sie dörf				sie darf				she is allowed to			
@@ -156,7 +155,7 @@ welle				wollen				to want
 ich wett				ich will				I want			
 du wetsch	du wotsch	du wötsch		du willst				you want			
 er wett				er will				he wants			
-ich ha welle				ich haben wollen				I wanted			
+ich ha welle				ich habe gewollt	ich wollte			I wanted			
 müese	müäse			müssen				to have to			
 ich mues	ich muäs	ich muen		ich muss				I have to	I must		
 du muesch	du muäsch			du musst				you have to 	you must		
@@ -242,7 +241,7 @@ nume	nur			nur				only
 											
 											
 											
-nonig				noch nicht							
+nonig				noch nicht				not yet			
 niemer	niämer			niemand				nobody			
 d Stäge				die Treppe				the stairs			
 d Stägehuus				das Treppenhaus				the stairwll			
@@ -255,7 +254,7 @@ du haissisch				du heisst				you are called
 sie haisst				sie heisst				she is called			
 mir haissed				wir heissen				we are called			
 ich ha ghaisst				ich habe geheisst				I was called			
-ässe : to eat								to eat			
+ässe				essen				to eat			
 ich isse	ich ässe			ich esse				I eat			
 du issisch				du esst				you eat			
 er isst				er esst				he eats			
@@ -273,7 +272,6 @@ du gseesch	du gsehsch			du siehst				you see
 er gseet	er gseht			er sieht				he sees			
 mir gsend	mir gsänd			wir sehen				we see			
 ich ha gsee	ich ha gseh			wir haben gesehen				we saw			
-											
 gää	gäh			geben				to give			
 ich gib				ich gebe				I give			
 du gisch				du gibst				you give			
@@ -288,7 +286,6 @@ du laisch				du legst				you lay (something) down
 er lait				er legt				he lays (something) down			
 mir legged				wir legen				we lay (something) down			
 ich ha gleit				ich ha gelegt				I laid (something) down			
-											
 null				null				zero			
 ais	eis			eins				one			
 zwai	zwei			zwei				two			
@@ -304,7 +301,7 @@ elf				elf				eleven
 zwölf				zwölf				twelve			
 drizä				dreizehn				thirteen			
 viärzä	vierzä			vierzehn				fourteen			
-füfzä				fünfzeh				fifteen			
+füfzä				fünfzehn				fifteen			
 sächzä				sechzehn				sixteen			
 sibezä				siebzehn				seventeen			
 achzä				achtzehn				eighteen			
@@ -323,7 +320,6 @@ nüünedachzg				neunundachtzig				eighty-nine
 nünzg				neunzig				ninety			
 hundert				hundert				one hundred			
 tuusig				eintausend				one thousand			
-											
 s Ais	s Eis							the one (tram)			
 s Zwai								the two (tram)			
 s Drüü								the three (tram)			
@@ -357,7 +353,7 @@ Ich bin vieri				Ich bin vier Jahre alt.				I am four.	I am four years old.
 de Zvieri	d Zviäri							the afternoon snack			
 de Znüni	de Znüüni	s Znüni						the morning snack			
 de Zmittag				das Mittagessen				the lunch			
-de Zmorge				das Frühstuck				breakfast			
+de Zmorge				das Frühstück				breakfast			
 de Znacht				das Abendessen				dinner	supper		
 nachem Eis				nach Ein Uhr.				After one.	After one o'clock.		
 de Tessär	de Dessert			der Nachtisch	das Dessert			the dessert			
@@ -369,7 +365,7 @@ Ich chume zu dir go schlafe.								I'm coming to yours to sleep.	I'm coming to 
 Tuänd Si tschuute?	Tschutted Si?							Do you play soccer?			
 Ich tuä gärn tanze.	Ich tanze gärn.							I like to dance.			
 poschte				einkaufen				to shop			
-luege				sehen	gücken			to look			
+luege				sehen	gucken			to look			
 löse				hören				to listen			
 schaffe				arbeiten				to work			
 laufe				laufen	spazieren			to walk			
@@ -457,8 +453,8 @@ Uf widerluege!				Auf wiedersehen!				Goodbye!
 gäll								right?			
 Ich schaffe z Züri.				Ich arbeite in Zürich.				I work in Zurich.			
 Ich bin uf de Wält cho	Ich bin gebore			Ich bin geboren				I was born			
-de Härdöpfel	de Herdöpfel			der Kartoffel				the potato			
-de Öpfel				das Apfel				the apple			
+de Härdöpfel	de Herdöpfel			die Kartoffel				the potato			
+de Öpfel				der Apfel				the apple			
 s Ross				das Pferd				the horse			
 öppedie								from time to time			
 d Zää				die Zähne				the teeth			
@@ -473,7 +469,7 @@ de Sunntig				der Sonntag				the Sunday
 am Sunntig				am Sonntag				on Sunday			
 d Beiz				die Kneipe				the bar			
 											
-spöter				spater				later			
+spöter				später				later			
 Ich ha chalt.	Ich ha kalt.			Es ist mir kalt.				I'm (feeling) cold.			
 ich hät gärn				Ich möchte				I would like (to order)			
 i de Nöchi				in der Nähe				nearby			
@@ -509,11 +505,8 @@ lässig				lässig				cool	fun
 bsueche	bsuäche			besuchen				to visit			
 s Muul				der Mund				the mouth			
 Du froischdi								You enjoy yourself			
-Ich rasiärmi hütt nöd								I don't shave today			
-Ich wäschmer hütt d Haar nöd								I don't wash my hair today			
-Wiä oft putzischder d Zää?								How often do you brush your teeth?			
 fröge				fragen				to ask			
-ghöre				horen				to hear (passively)			
+ghöre				hören				to hear (passively)			
 eifach				einfach				simple	easy		
 use				nach drausen	hinaus 			out	outside		
 duse	dusse			draussen				outside			
@@ -525,7 +518,7 @@ Ich gang use.				Ich gehe raus				I go out.
 Ich gang ine.				Ich gehe rein				I go in.			
 Ich gang ufe.				Ich gehe nach oben.				I go up.			
 Ich gang abe.				Ich gehe nach unten.				I go down.			
-S Schlafzimmer isch über de Kuchi.				Das Schlafzimmer ist über der Küche.				The bedroom is above the kitchen			
+S Schlafzimmer isch über de Kuchi.				Das Schlafzimmer ist über der Küche.				The bedroom is above the kitchen.			
 S Schlafzimmer isch under de Kuchi.				Das Schlafzimmer ist unter der Küche.				The bedroom is below the kitchen.			
 dune				da unten				downstairs			
 am Mittwuch				am Mittwoch	Mittwochs			on Wednesday	(on) Wednesdays		
@@ -542,11 +535,10 @@ d Lampene	d Lampe			die Lampen				the lamps
 d Bäum				die Bäume				the trees			
 d Büecher				die Bücher				the books			
 d Fraue				die Frauen				the women			
-											
 Du froischdi.				Du freust dich.				You are happy. 	You are glad.		
 Ich rasiärmi hütt nöd.				Ich rasiere mich heute nicht.				I don't shave today.			
-Ich wäschmer hütt d Haar nöd.				I wasche mich die Haare heute nicht.				I don't wash my hair today.			
-Wiä oft putzischder d Zää?.				Wie oft putzt du dir die Zähne?				How often do you brush your teeth?			
+Ich wäschmer hütt d Haar nöd.				I wasche mir die Haare heute nicht.				I don't wash my hair today.			
+Wiä oft putzischder d Zää?				Wie oft putzt du dir die Zähne?				How often do you brush your teeth?			
 Am viertel ab zwölfi isster Zmittag.				Um viertel nach zwölf isst er zu Mittag.				At quarter past twelve, he eats lunch.			
 vom achti bis am nüni				von acht bis neun Uhr				from eight o'clock until nine o'clock			
 de Kinski	de Chindsgi			der Kindergarten				the kindergarten			
@@ -561,4 +553,4 @@ s Kafi				das Café				the café
 de Kaffee				der Coffee				the coffee			
 d Badi								the pool			
 d Jöb				die Jobs				the jobs			
-de Zahni				der Zahnartzt				the dentist			
+de Zahni				der Zahnarzt				the dentist			
