@@ -430,7 +430,7 @@ d Schtäge			die Treppe			the staircase
 d Beiz			die Kneipe			the bar			
 s Ross			das Pferd			the horse			
 s Rüebli	s Rüäbli		die Karotte			the carrot			
-d Schtube	d Stube		das Wohnzimmer			the living room			
+d Schtube			das Wohnzimmer			the living room			
 s Pule	s Poulet		das Hähnchen			the chicken			
 s Velo			das Fahrrad			the (road) bike			
 s Portmone	s Portmonnaie		die Brieftasche			the wallet			
@@ -438,6 +438,7 @@ s Cheminee	s Schmine		der Kamin			the fireplace
 de Tessär	de Dessert		der Nachtisch	das Dessert		the dessert			
 s Glace	s Glasse		das Eis			the ice cream			
 s Trottoir			der Gehweg	der Bürgersteig		the sidewalk			
+de Coafför	de Coiffeur		der Friseur			the hairdresser			
 sust	susch	suscht	sonst			otherwise			
 mer	mä	me	man			one			
 da			hier			here			
