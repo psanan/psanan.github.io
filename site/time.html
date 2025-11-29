@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="author" content="Patrick Sanan" />
+    <title>Simulation for "TIME TIME TIME"</title>
+    <link rel="stylesheet" href="styles/styles.css" />
+    <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Atom feed" />
+  </head>
+<body>
+<div>
+<a href="index.html">patricksanan.org</a> | <a href="reports.html">trip reports</a> | <a href="music.html">music</a> | <a href="teaching-and-open-source-software.html">academic</a> | <a href="misc.html">misc.</a> | <a href="Sanan_CV.pdf">CV</a> | <a href="contact.html">contact</a> <span style="float:right;"><a href="atom.xml" rel="alternate">feed</a> <a href="atom.xml" rel="alternate"><img src="images/feed-icon-14x14.png" style="vertical-align:middle" /></a></span>
+</div>
+<h1>Simulation for "TIME TIME TIME"</h1>
+<!--END HEADER -- This line and above can be automatically rewritten!-->
+
+<p>
+I worked with my friends and colleagues <a href="https://charitrajain.net/">Charitra Jain</a>, Diogo Lourenço, Antoine Rozel, and Paul Tackley in the <a href="https://gfd.ethz.ch/">Geophysical Fluid Dynamics Group</a> at ETH Zurich to provide a simulation for use in <a href="https://milker.org/jenniferwalshebiography">Jennifer Walshe</a> and Timothy Morton's 2019 "TIME TIME TIME".
+</p>
+
+<p>
+The simulation was a 2 dimensional simulation of the evolution of an Earth-like planet over several billion years. This time scale, on the same order as the age of the universe, is the longest time scale we (so far) relate to a as humans, and the simulation appears near the beginning and end of the piece, corresponding to the longest timescale there, as well.
+</p>
+
+<p>
+To make it, we used Paul Tackley's <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031920108002276">StagYY</a> code to simulate a <a href="https://www.theguardian.com/music/2019/dec/15/time-time-time-review-ambika-p3-london-jennifer-walshe-timothy-morton">"beautiful imagined cross section of the Earth"</a>, using parameters allowing for chemical evolution of rocks leading to self-consistent evolution of crust and a subduction-like recycling of this back into the mantle. These are related to simulations as featured in studies by <a href="https://www.sciencedirect.com/science/article/abs/pii/S1342937X19301066">Jain et al. (2019)</a> and <a href="https://www.nature.com/articles/nature22042">Rozel et al. (2019)</a> .
+</p>
+</p>
+The technical challenge was generating and combining vastly more frames than necessary for the main scientific purpose of the code, allowing us to generate a video over an hour long at a reasonable frame rate. This was achieved (as I remember) with some careful batched use of Paraview on the Euler cluster at ETH Zurich.
+</p>
+
+<!-- https://github.com/psanan/stagyy_time/tree/master/scripts -->
+
+<p>
+A video of one of the performances:
+</p>
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EBfLXI3Dsfw?si=w7ZKVLAaTZSliuXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+
+<!--START FOOTER -- This line and below can be automatically rewritten!-->
+<div class="footer">
+<hr>
+&copy; 2023-2025 Patrick Sanan
+<span style="float:right;">Made with 🤷 by <a href="https://github.com/psanan/psanan.github.io">editing HTML</a></span>
+</div>
+</body>
+</html>
