@@ -3,10 +3,10 @@
 <title>patricksanan.org</title>
 <link href="https://patricksanan.org/" ref="alternate"/>
 <link href="https://patricksanan.org/feeds/all.atom.xml" rel="self"/>
-<updated>2025-12-13T13:00:00+01:00</updated>
+<updated>2026-01-01T15:00:00-08:00</updated>
 <author><name>Patrick Sanan</name> </author>
 <id>https://patricksanan.org</id>
-<rights>Copyright 2023-2025 Patrick Sanan</rights>
+<rights>Copyright 2023-2026 Patrick Sanan</rights>
 <entry>
 <title>100-miles.html</title>
 <link href="https://patricksanan.org/100-miles.html"/>
@@ -200,10 +200,19 @@
 <title>tunes-2024.html</title>
 <link href="https://patricksanan.org/tunes-2024.html"/>
 <id>https://patricksanan.org/tunes-2024.html</id>
-<published>2024-01-03</published>
-<updated>2024-01-03</updated>
+<published>2025-01-03</published>
+<updated>2025-01-03</updated>
 <summary>https://patricksanan.org/tunes-2024.html</summary>
 <content>https://patricksanan.org/tunes-2024.html</content>
+</entry>
+<entry>
+<title>tunes-2025.html</title>
+<link href="https://patricksanan.org/tunes-2025.html"/>
+<id>https://patricksanan.org/tunes-2025.html</id>
+<published>2026-01-01</published>
+<updated>2026-01-01</updated>
+<summary>https://patricksanan.org/tunes-2025.html</summary>
+<content>https://patricksanan.org/tunes-2025.html</content>
 </entry>
 <entry>
 <title>utmb.html</title>
